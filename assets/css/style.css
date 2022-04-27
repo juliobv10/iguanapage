@@ -1,0 +1,104 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-size: 100%;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    
+}
+
+body{
+    background-color: black;
+}
+
+header {
+    text-align: center;color: aliceblue;
+    background-color: black;
+    padding: 2rem;
+    font-size: 50px;
+}
+
+.iguana1{
+    width: 100%;
+    
+    
+}
+
+.texto1{
+
+    margin: 2rem;
+    width: 300px;
+    float: left;
+}
+
+#parrafo1{
+    margin: 1rem auto;
+}
+
+#parrafo2{
+    margin: 1rem auto;
+
+}
+
+main{
+    text-align: left; color: aliceblue;
+    background-color: black;
+    display: inline-block;
+}
+
+
+
+.iguana2{
+    width: 20%;
+    height: 10%;
+    margin: 7rem;
+    
+    
+}
+
+.icon-main{
+    text-align: center;color: aliceblue;
+    background-color: #1E1A13;
+    
+    
+}
+
+.icon-title{
+    padding: 1rem;
+}
+.icon-box{
+    display: inline-block;
+    margin: 4rem;
+}
+
+.imagenes{
+    background-color: black;
+    margin: 1em;
+    padding: 1em;
+     
+}
+
+#img-box1{
+    margin: 3rem;
+    width: 28%;
+    height: 8%;
+}
+
+#img-box2{
+    margin: 3rem;
+    width: 24%;
+    height: 10%;
+}
+
+#img-box3{
+    margin: 3rem;
+    width: 24%;
+    height: 10%;
+}
+
+.footer{
+    text-align: center; color: aliceblue;
+    background-color: #1E1A13;
+   
+}
+
